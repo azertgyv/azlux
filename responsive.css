@@ -1,0 +1,15 @@
+@media(max-width:1024px){
+    .header-bar .bar-two-cont .header-menu{
+        display: none;
+    }
+}
+@media(max-width:884px){
+    .footer .footer-menu{
+        display: none;
+    }
+}
+@media(max-width: 500px){
+    .header-bar .az-text{
+        
+    }
+}
